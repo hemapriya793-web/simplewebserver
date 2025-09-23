@@ -42,9 +42,10 @@ content = """
 <!DOCTYPE html>
 <html>
     <head>
-    </title>
+    <title>table</title>
     </head>
     <boby>
+        <h1 align>Device specification(HEMAPRIYA)</h1>
         <table border="10" cellpadding="20">
         <tr>
             <td>s.no</td>
@@ -98,7 +99,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-09-16 144450.png>)
+![alt text](<Screenshot (25).png>)
 ![alt text](<Screenshot 2025-09-16 144513.png>)
 
 ## RESULT:

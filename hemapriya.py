@@ -3,9 +3,10 @@ content = """
 <!DOCTYPE html>
 <html>
     <head>
-    </title>
+   <title>table</title>
     </head>
     <boby>
+        <h1 align="center">Device specification(HEMAPRIYA S)(25017270)</h1>
         <table border="10" cellpadding="20">
         <tr>
             <td>s.no</td>
